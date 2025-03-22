@@ -33,9 +33,9 @@ export const subcategories = {
                 { name: "Getting Started", path: "/new-members/getting-started" },
             ] },
         { header: "External Resources", links: [
-                { name: "Events Calendar", url: "https://ucscrocketry.notion.site/" },
+                { name: "Events Calendar", url: "https://calendar.google.com/calendar/u/1?cid=MzE0NnRvaXNuZmhqYnEyY3N1cHI4ZTZyam9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" },
                 { name: "Slack", url: "https://rocketslug.slack.com" },
-                { name: "Notion", url: "https://calendar.google.com/calendar/u/1?cid=MzE0NnRvaXNuZmhqYnEyY3N1cHI4ZTZyam9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" },
+                { name: "Notion", url: "https://ucscrocketry.notion.site/" },
             ] },
     ]
 };

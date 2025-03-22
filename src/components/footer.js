@@ -46,7 +46,7 @@ function Footer() {
                     <div className="footerColumn">
                         <h5>NEW MEMBERS</h5>
                         <a href="/site#/new-members/how-to-join">How to Join</a>
-                        <a href="https://ucscrocketry.notion.site/">Events Calendar</a>
+                        <a href="https://calendar.google.com/calendar/u/1?cid=MzE0NnRvaXNuZmhqYnEyY3N1cHI4ZTZyam9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">Events Calendar</a>
                         <a href="https://rocketslug.slack.com">Slack Link</a>
                     </div>
                 </div>
