@@ -14,7 +14,7 @@ import GroundControlSystems from "./pages/technical-projects/ground-control-syst
 import ThrustVectorControl from "./pages/technical-projects/thrust-vector-control";
 // import Simulations from "./pages/technical-projects/simulations";
 
-import Outreach from "./pages/outreach";
+import Outreach from "./pages/outreach/outreach";
 import Media from "./pages/outreach/media";
 import CurrentLeadership from "./pages/leadership/current-leadership";
 import Alumni from "./pages/leadership/alumni";

@@ -1,8 +1,8 @@
-import './projects.css';
-import ProjectFeature from "../components/projectfeature";
-import SideNavigation from "../components/sideNavigation";
-import Skill from "../components/skill";
-import outreachImage from "../media/outreach/IMG_0379.jpg";
+import '../projects.css';
+import ProjectFeature from "../../components/projectfeature";
+import SideNavigation from "../../components/sideNavigation";
+import Skill from "../../components/skill";
+import outreachImage from "../../media/outreach/IMG_0379.jpg";
 
 function Avionics() {
     return (
