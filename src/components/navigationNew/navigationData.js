@@ -18,7 +18,7 @@ export const subcategories = {
             ] },
         { header: "Sponsors", links: [
                 { name: "Our Sponsors", path: "/outreach/our-sponsors" },
-                { name: "Become a Sponsor", path: "/outreach/our-sponsors" },
+                // { name: "Become a Sponsor", path: "/outreach/our-sponsors" },
             ] },
     ],
     "Leadership": [
