@@ -12,7 +12,7 @@ import Payload from "./pages/irec/payload";
 import Avionics from "./pages/technical-projects/avionics";
 import GroundControlSystems from "./pages/technical-projects/ground-control-systems";
 import ThrustVectorControl from "./pages/technical-projects/thrust-vector-control";
-import Simulations from "./pages/technical-projects/simulations";
+// import Simulations from "./pages/technical-projects/simulations";
 
 import Outreach from "./pages/outreach";
 import Media from "./pages/outreach/media";
@@ -40,7 +40,7 @@ function App() {
                 <Route path="/technical-projects/avionics" element={<Avionics/>}/>
                 <Route path="/technical-projects/ground-control-systems" element={<GroundControlSystems/>}/>
                 <Route path="/technical-projects/thrust-vector-control" element={<ThrustVectorControl/>}/>
-                <Route path="/technical-projects/simulations" element={<Simulations/>}/>
+                {/* <Route path="/technical-projects/simulations" element={<Simulations/>}/> */}
                 <Route path="/outreach" element={<Outreach/>}/>
                 <Route path="/outreach/media" element={<Media/>}/>
                 <Route path="/leadership/current-leadership" element={<CurrentLeadership/>}/>

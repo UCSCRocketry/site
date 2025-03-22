@@ -8,7 +8,7 @@ export const subcategories = {
                 { name: "Avionics", path: "/technical-projects/avionics" },
                 { name: "Ground Control Systems", path: "/technical-projects/ground-control-systems" },
                 { name: "Thrust Vector Control", path: "/technical-projects/thrust-vector-control" },
-                { name: "Simulations", path: "/technical-projects/simulations" },
+                // { name: "Simulations", path: "/technical-projects/simulations" },
             ] },
     ],
     "Outreach": [

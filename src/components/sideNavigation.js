@@ -17,7 +17,7 @@ function SideNavigation({ active }) {
             <hr/>
             <Link to="/technical-projects/thrust-vector-control"><h6>Thrust Vector Control</h6></Link>
             <hr/>
-            <Link to="/technical-projects/simulations"><h6>Simulations</h6></Link>
+            {/* <Link to="/technical-projects/simulations"><h6>Simulations</h6></Link> */}
             <hr/>
         </section>
     );

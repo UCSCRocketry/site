@@ -29,7 +29,7 @@ function Footer() {
                         <a href="/site#/technical-projects/avionics">Avionics</a>
                         <a href="/site#/technical-projects/ground-control-systems">Ground Control Systems</a>
                         <a href="/site#/technical-projects/thrust-vector-control">Thrust Vector Control</a>
-                        <a href="/site#/technical-projects/simulations">Simulations</a>
+                        {/* <a href="/site#/technical-projects/simulations">Simulations</a> */}
                     </div>
                     <div className="footerColumn">
                     <h5>OUTREACH</h5>

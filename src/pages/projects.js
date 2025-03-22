@@ -5,7 +5,7 @@ import vehicleImage from "../media/vehicle-systems/loading.jpg";
 import payloadImage from "../media/payload/payload.jpg";
 import avionicsImage from "../media/avionics/avionics.png";
 import groundControlSystems from "../media/ground-control-systems/gcs.jpg";
-import simulationsImage from "../media/simulations/rocketsim.jpg";
+// import simulationsImage from "../media/simulations/rocketsim.jpg";
 import tvcImage from "../media/thrust-vector-control/IMG_1667.png"
 
 import React, {useEffect, useRef} from "react";
@@ -75,12 +75,12 @@ function Projects() {
                     info="Reduce, Reuse, Recycle, Rockets."
                 />
             </Link>
-            <Link to="/technical-projects/simulations">
+            {/* <Link to="/technical-projects/simulations">
                 <ProjectFeature
                     photo={simulationsImage} team="Simulations" type="Project Team"
                     info="Computer simulations involving: "
                 />
-            </Link>
+            </Link> */}
         </section>
     )
 }
