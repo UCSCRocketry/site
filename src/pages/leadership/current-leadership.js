@@ -30,20 +30,10 @@ function CurrentLeadership() {
                 <h5 className="H5Gray">Administration Team</h5>
                 <LeadsCard big={true} name="Qingyuan Cao" title="President" year="4th" major="Computer Engineering"
                            image={Qingyuan}
-                           about="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-                dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-                 mollit anim id est laborum."
+                           about="Qingyuan, at the helm of Rocket Team, directs engineering efforts, oversees launches, and fuels advancements in rocketry through leadership and innovation."
                 />
                 <LeadsCard big={true} name="Khanh Tran" title="Vice President" year="4th" major="Robotics" image={Khanh}
-                           about="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-                dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-                 mollit anim id est laborum."
+                           about="As vice president, Khanh supports leadership, manages logistics, and coordinates technical efforts to ensure mission success."
                 />
                 <hr/>
                 <div className="leadsContainer">
@@ -52,16 +42,16 @@ function CurrentLeadership() {
                     <LeadsCard big={false} name="Aaron Spalding" title="Business and Finance" year="3rd"
                                major="Art and Design: Games and Playable Media" image={Aaron}/>
                     <LeadsCard big={false} name="Alexander Dalchev" title="Launch Operations" year="2nd"
-                               major="Business" image={Alex}/>
+                               major="Business Management Economics" image={Alex}/>
                     <LeadsCard big={false} name="Heli Kadakia" title="Outreach" year="2nd"
                                major="Computer Science and Computer Engineering" image={Heli}/>
                 </div>
                 <hr/>
                 <h5 className="H5Gray">Competition Leads</h5>
                 <div className="leadsContainer">
-                <LeadsCard big={false} name="Teodor Langan" title="Vehicle Systems" year="4th"
+                <LeadsCard big={false} name="Teodor Langan" title="Vehicle Systems" year="2nd"
                                major="Computer Engineering" image={Teo}/>
-                    <LeadsCard big={false} name="Amber Borjigin" title="Recovery" year="4th"
+                    <LeadsCard big={false} name="Amber Borjigin" title="Recovery" year="2nd"
                                major="Computer Engineering" image={Amber}/>
                     <LeadsCard big={false} name="Laura Ortiz" title="Payload" year="4th"
                                major="Robotics" image={Laura}/>
@@ -69,16 +59,14 @@ function CurrentLeadership() {
                 <hr/>
                 <h5 className="H5Gray">Project Leads</h5>
                 <div className="leadsContainer">
-                <LeadsCard big={false} name="Julian Barberra" title="Avionics Electrical" year="4th"
-                               major="Computer Engineering" image={Julian}/>
-                    <LeadsCard big={false} name="Merrick Fort" title="Avionics Software" year="4th"
-                               major="Art and Design: Games and Playable Media" image={Merrick}/>
-                    <LeadsCard big={false} name="Sage Silberman" title="Ground Control Systems" year="4th"
-                               major="Art and Design: Games and Playable Media" image={Aaron}/>
-                    <LeadsCard big={false} name="Amber Borjigin" title="Thrust Vector Control" year="4th"
-                               major="Art and Design: Games and Playable Media" image={Amber}/>
-                    <LeadsCard big={false} name="Arjun Padiyar" title="Simulations" year="4th"
-                               major="Art and Design: Games and Playable Media" image={Arjun}/>
+                <LeadsCard big={false} name="Julian Barberra" title="Avionics Electrical" year="2nd"
+                               major="Electrical Engineering" image={Julian}/>
+                    <LeadsCard big={false} name="Merrick Fort" title="Avionics Software" year="3rd"
+                               major="Baskin Engineering" image={Merrick}/>
+                    <LeadsCard big={false} name="Sage Silberman" title="Ground Control Systems" year="2nd"
+                               major="Baskin Engineering" image={Aaron}/>
+                    <LeadsCard big={false} name="Amber Borjigin" title="Thrust Vector Control" year="2nd"
+                               major="Computer Engineering" image={Amber}/>
                 </div>
             </div>
         </section>
