@@ -132,7 +132,7 @@ function Home() {
                     </div>
                 </div>
             </section>
-            <section className="upcomingEvents">
+            {/* <section className="upcomingEvents">
                 <div className="headlineContainer">
                     <h3>Upcoming Events</h3>
                     <div className="eventsContainer g10">
@@ -143,7 +143,7 @@ function Home() {
                     </div>
                     <span className="infoNote">For individual subteam meetings, please refer to the events calendar!</span>
                 </div>
-            </section>
+            </section> */}
             <section className="outreach hero">
                 <div className="heroOverlay">
                     <div className="headlineContainer">
