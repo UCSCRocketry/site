@@ -13,11 +13,11 @@ export const subcategories = {
     ],
     "Outreach": [
         { header: "Outreach", links: [
-                { name: "Outreach", path: "/outreach/outreach" },
+                { name: "Outreach", path: "/outreach" },
                 { name: "Media", path: "/outreach/media" },
             ] },
         { header: "Sponsors", links: [
-                { name: "Our Sponsors", path: "/outreach/outreach" },
+                { name: "Our Sponsors", path: "/outreach" },
                 { name: "Become a Sponsor", path: "/outreach/cinematics" },
             ] },
     ],

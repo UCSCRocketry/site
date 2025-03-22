@@ -33,9 +33,9 @@ function Footer() {
                     </div>
                     <div className="footerColumn">
                     <h5>OUTREACH</h5>
-                        <a href="/site#/outreach/outreach">Outreach</a>
+                        <a href="/site#/outreach">Outreach</a>
                         <a href="/site#/outreach/media">Media</a>
-                        <a href="/site#/outreach/outreach">Our Sponsors</a>
+                        <a href="/site#/outreach">Our Sponsors</a>
                         <a href="/site#/outreach/cinematics">Become a Sponsor</a>
                     </div>
                     <div className="footerColumn">
