@@ -20,7 +20,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://UCSCRocketry.github.io/site",
+  "homepage": "https://ucscrocketry.github.io/site/",
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -40,6 +40,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.2.0"
+    "gh-pages": "^6.3.0"
   }
 }
