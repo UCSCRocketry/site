@@ -22,11 +22,11 @@ const subcategories = {
     "Outreach": [
         { header: "Outreach", links: [
                 { name: "Outreach", path: "/outreach" },
-                { name: "Media", path: "/outreach/cinematics" },
+                { name: "Media", path: "/outreach/media" },
             ] },
         { header: "Sponsors", links: [
-                { name: "Our Sponsors", path: "/outreach" },
-                { name: "Become a Sponsor", path: "/outreach/cinematics" },
+                { name: "Our Sponsors", path: "/outreach/our-sponsors" },
+                { name: "Become a Sponsor", path: "/outreach/our-sponsors" },
             ] },
     ],
     "Leadership": [

@@ -4,7 +4,7 @@ import SideNavigation from "../../components/sideNavigation";
 import Skill from "../../components/skill";
 import outreachImage from "../../media/outreach/IMG_0379.jpg";
 
-function Avionics() {
+function Outreach() {
     return (
         <section>
             <ProjectFeature
@@ -46,4 +46,4 @@ function Avionics() {
     )
 }
 
-export default Avionics;
+export default Outreach;

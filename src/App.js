@@ -14,7 +14,8 @@ import GroundControlSystems from "./pages/technical-projects/ground-control-syst
 import ThrustVectorControl from "./pages/technical-projects/thrust-vector-control";
 // import Simulations from "./pages/technical-projects/simulations";
 
-import Outreach from "./pages/outreach";
+import Outreach from "./pages/outreach/outreach";
+import OurSponsors from "./pages/outreach/our-sponsors";
 import Media from "./pages/outreach/media";
 import CurrentLeadership from "./pages/leadership/current-leadership";
 import Alumni from "./pages/leadership/alumni";
@@ -43,6 +44,7 @@ function App() {
                 {/* <Route path="/technical-projects/simulations" element={<Simulations/>}/> */}
                 <Route path="/outreach" element={<Outreach/>}/>
                 <Route path="/outreach/media" element={<Media/>}/>
+                <Route path="/outreach/our-sponsors" element={<OurSponsors/>}/>
                 <Route path="/leadership/current-leadership" element={<CurrentLeadership/>}/>
                 <Route path="/leadership/alumni" element={<Alumni/>}/>
                 <Route path="/new-members/new-members" element={<NewMembers/>}/>
