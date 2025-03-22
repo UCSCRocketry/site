@@ -21,33 +21,33 @@ function Footer() {
                 <div className="footerLinks">
                     <div className="footerColumn">
                         <h5>IREC 2025</h5>
-                        <a>Vehicle Systems</a>
-                        <a>Payload</a>
+                        <a href="/site#/irec/vehicle-systems">Vehicle Systems</a>
+                        <a href="/site#/irec/payload">Payload</a>
                     </div>
                     <div className="footerColumn">
                         <h5>TECHNICAL PROJECTS</h5>
-                        <a>Avionics</a>
-                        <a>Ground Control Systems</a>
-                        <a>Thrust Vector Control</a>
-                        <a>Simulations</a>
+                        <a href="/site#/technical-projects/avionics">Avionics</a>
+                        <a href="/site#/technical-projects/ground-control-systems">Ground Control Systems</a>
+                        <a href="/site#/technical-projects/thrust-vector-control">Thrust Vector Control</a>
+                        <a href="/site#/technical-projects/simulations">Simulations</a>
                     </div>
                     <div className="footerColumn">
                     <h5>OUTREACH</h5>
-                        <a>Outreach</a>
-                        <a>Media</a>
-                        <a>Our Sponsors</a>
-                        <a>Become a Sponsor</a>
+                        <a href="/site#/outreach/outreach">Outreach</a>
+                        <a href="/site#/outreach/media">Media</a>
+                        <a href="/site#/outreach/outreach">Our Sponsors</a>
+                        <a href="/site#/outreach/cinematics">Become a Sponsor</a>
                     </div>
                     <div className="footerColumn">
                         <h5>LEADERSHIP</h5>
-                        <a>Current Leads</a>
-                        <a>Alumni</a>
+                        <a href="/site#/leadership/current-leadership">Current Leads</a>
+                        <a href="/site#/leadership/alumni">Alumni</a>
                     </div>
                     <div className="footerColumn">
                         <h5>NEW MEMBERS</h5>
-                        <a>How to Join</a>
-                        <a>Events Calendar</a>
-                        <a>Slack Link</a>
+                        <a href="/site#/new-members/how-to-join">How to Join</a>
+                        <a href="https://ucscrocketry.notion.site/">Events Calendar</a>
+                        <a href="https://rocketslug.slack.com">Slack Link</a>
                     </div>
                 </div>
                 <div className="footerInfo">
