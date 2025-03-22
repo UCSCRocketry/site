@@ -52,10 +52,10 @@ function Footer() {
                 </div>
                 <div className="footerInfo">
                     <div className="copywrite">
-                        <h5>© UCSC ROCKETRY 2024. ALL RIGHTS RESERVED</h5>
+                        <h5>© 2025 Regents of the University of California</h5>
                     </div>
                     <div className="preferences">
-                        <h5>PRIVACY POLICY</h5>
+                        <h5> Rocket Team is a 501(c)(3) nonprofit organization (EIN 94-1539563). </h5>
                     </div>
                 </div>
             </section>
