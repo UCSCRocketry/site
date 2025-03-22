@@ -11,11 +11,11 @@ import Khanh from "../../media/leads/IMG_0713.png"
 import Amber from "../../media/leads/IMG_8848.jpg"
 import Laura from "../../media/leads/IMG_1754.jpg"
 import Marcus from "../../media/leads/IMG_5571.jpg"
-import Arjun from "../../media/leads/IMG_5724.jpg"
 import Julian from "../../media/leads/img_9983.jpg"
 import Merrick from "../../media/leads/IMG_7105.jpg"
-import Alex from "../../media/leads/FullSizeRender Kopie.png"
+import Alexander from "../../media/leads/Alexander.png"
 import Teo from "../../media/leads/IMG_2201.JPG"
+import Sage from "../../media/leads/sage.jpg"
 
 function CurrentLeadership() {
     return (
@@ -42,7 +42,7 @@ function CurrentLeadership() {
                     <LeadsCard big={false} name="Aaron Spalding" title="Business and Finance" year="3rd"
                                major="Art and Design: Games and Playable Media" image={Aaron}/>
                     <LeadsCard big={false} name="Alexander Dalchev" title="Launch Operations" year="2nd"
-                               major="Business Management Economics" image={Alex}/>
+                               major="Business Management Economics" image={Alexander}/>
                     <LeadsCard big={false} name="Heli Kadakia" title="Outreach" year="2nd"
                                major="Computer Science and Computer Engineering" image={Heli}/>
                 </div>
@@ -64,7 +64,7 @@ function CurrentLeadership() {
                     <LeadsCard big={false} name="Merrick Fort" title="Avionics Software" year="3rd"
                                major="Baskin Engineering" image={Merrick}/>
                     <LeadsCard big={false} name="Sage Silberman" title="Ground Control Systems" year="2nd"
-                               major="Baskin Engineering" image={Aaron}/>
+                               major="Baskin Engineering" image={Sage}/>
                     <LeadsCard big={false} name="Amber Borjigin" title="Thrust Vector Control" year="2nd"
                                major="Computer Engineering" image={Amber}/>
                 </div>
