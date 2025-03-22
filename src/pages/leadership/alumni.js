@@ -5,14 +5,9 @@ import LeadsCard from "../../components/leads";
 import React from "react";
 
 import Qingyuan from "../../media/leads/Screenshot 2024-11-18 at 11.35.06 PM.png"
-import Heli from "../../media/leads/Screenshot 2024-10-12 at 3.11.00 PM.jpg"
-import Aaron from "../../media/leads/ich2.png"
 import Khanh from "../../media/leads/IMG_0713.png"
-import Amber from "../../media/leads/IMG_8848.jpg"
 import Laura from "../../media/leads/IMG_1754.jpg"
 import Marcus from "../../media/leads/IMG_5571.jpg"
-import Arjun from "../../media/leads/IMG_5724.jpg"
-import Teo from "../../media/leads/IMG_2201.JPG"
 
 function Alumni() {
     return (
@@ -24,12 +19,17 @@ function Alumni() {
                 </section>
             </section>
             <div className="contentContainer">
-                <div className="leadsContainer">
-                    <LeadsCard big={false} name="Marcus Chan" title="Lab Saftey Officer" year="4th"
+                    <h4>The UC Santa Cruz Rocket Team deeply values the dedication and achievements of our past members and leaders. Their contributions have laid the foundation for our continued success, inspiring new generations of engineers and innovators. Each year, we proudly pass the torch, carrying forward their legacy and pushing the boundaries of rocketry. With every launch, we reach new heights, driven by the knowledge, passion, and perseverance of those who came before us.</h4>                
+                    {/* <div className="leadsContainer">
+                    <LeadsCard big={false} name="Marcus Chan" title="Lab Saftey Officer" year="2025"
                                major="Computer Engineering" image={Marcus}/>
-                    <LeadsCard big={false} name="Aaron Spalding" title="Business and Finance" year="3rd"
-                               major="Art and Design: Games and Playable Media" image={Aaron}/>
-                </div>
+                    <LeadsCard big={false} name="Laura Ortiz" title="Payload" year="2025"
+                               major="Robotics Engineering" image={Laura}/>
+                    <LeadsCard big={false} name="Marcus Chan" title="Lab Saftey Officer" year="2025"
+                               major="Computer Engineering" image={Marcus}/>
+                    <LeadsCard big={false} name="Laura Ortiz" title="Payload" year="2025"
+                               major="Robotics Engineering" image={Laura}/>
+                </div> */}
             </div>
         </section>
     )
