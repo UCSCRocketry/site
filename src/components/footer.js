@@ -58,6 +58,9 @@ function Footer() {
                         <h5> Rocket Team is a 501(c)(3) nonprofit organization (EIN 94-1539563). </h5>
                     </div>
                 </div>
+                <div className="Prop209Statement">
+                	<h5>This group is open to all students consistent with state and federal law, the UC Nondiscrimination Statement and the Nondiscrimination Policy Statement for University of California Publications Regarding Student-Related Matters.</h5>
+                </div>
             </section>
         </footer>
     );
