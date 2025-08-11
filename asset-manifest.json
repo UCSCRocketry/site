@@ -1,10 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.c200a8b8.css",
-    "main.js": "/static/js/main.f26bc3c1.js",
+    "main.js": "/static/js/main.1cf0944a.js",
     "static/js/453.7fbbb176.chunk.js": "/static/js/453.7fbbb176.chunk.js",
     "static/media/IMG_0713.png": "/static/media/IMG_0713.9f870a609a2cb044d41f.png",
     "static/media/IMG_1667.png": "/static/media/IMG_1667.12d712596697fc01fba3.png",
+    "static/media/DSC_6351.jpg": "/static/media/DSC_6351.37dd643abc699b313e69.jpg",
+    "static/media/DSC_6357.jpg": "/static/media/DSC_6357.db5e21c25c159986c79c.jpg",
     "static/media/RocketTeamInfoBoard.png": "/static/media/RocketTeamInfoBoard.2e6a096f949cce6a0009.png",
     "static/media/splashvideo.mp4": "/static/media/splashvideo.f90085090f705a74158d.mp4",
     "static/media/Alexander.png": "/static/media/Alexander.218fe730923fd563f198.png",
@@ -32,6 +34,7 @@
     "static/media/blaze.png": "/static/media/blaze.027ff799e999905e5474.png",
     "static/media/IMG_2167.jpg": "/static/media/IMG_2167.a174ed6b9591410bfc02.jpg",
     "static/media/Screenshot 2024-10-12 at 3.11.00 PM.jpg": "/static/media/Screenshot 2024-10-12 at 3.11.00 PM.ea36f48cf8e603567567.jpg",
+    "static/media/TeamFoto.jpg": "/static/media/TeamFoto.127b5771587213c04d1a.jpg",
     "static/media/bluebackground.png": "/static/media/bluebackground.adc7d36dace13adfaebb.png",
     "static/media/sage.jpg": "/static/media/sage.02ef3c7c9db7c2244433.jpg",
     "static/media/F37Moon-ExtraBold.otf": "/static/media/F37Moon-ExtraBold.69c5ec911d43b7ad159d.otf",
@@ -45,11 +48,11 @@
     "static/media/outreach.svg": "/static/media/outreach.790239d0535c47428a5b21fef78be576.svg",
     "static/media/menuicon.svg": "/static/media/menuicon.444d0e11927b4093fcb9984b421bfade.svg",
     "main.c200a8b8.css.map": "/static/css/main.c200a8b8.css.map",
-    "main.f26bc3c1.js.map": "/static/js/main.f26bc3c1.js.map",
+    "main.1cf0944a.js.map": "/static/js/main.1cf0944a.js.map",
     "453.7fbbb176.chunk.js.map": "/static/js/453.7fbbb176.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c200a8b8.css",
-    "static/js/main.f26bc3c1.js"
+    "static/js/main.1cf0944a.js"
   ]
 }
