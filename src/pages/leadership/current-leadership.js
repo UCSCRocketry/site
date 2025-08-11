@@ -94,17 +94,17 @@ function CurrentLeadership() {
                         image={Alexander}
                     />
 
-                    {/* Outreach card removed per request */}
-                    {/*
+                    
+                    {
                     <LeadsCard
                         big={false}
-                        name="Heli Kadakia"
+                        name="filler"
                         title="Outreach"
                         year="2nd"
-                        major="Computer Science and Computer Engineering"
+                        major=""
                         image={Heli}
                     />
-                    */}
+                    }
                 </div>
 
                 <hr/>
@@ -136,6 +136,17 @@ function CurrentLeadership() {
                             year="2nd" major="Robotics Engineering" image={Dayton}/> 
                     <LeadsCard big={false} name="Julian Barberra" title="ADAS" year="3rd"
                                major="Electrical Engineering" image={Julian}/>
+                    <LeadsCard big={false} name="Maximillan Miller" title="ADAS" year="3rd"
+                               major="filler" image={Julian}/>  
+                    <LeadsCard
+                        big={false} name="Amber Borjigin" title="Vison Project" year="3rd"
+                        major="Computer Engineering" image={Amber}
+                    />
+                    <LeadsCard
+                        big={false} name="Dane" title="Vison Project" year="3rd"
+                        major="filler" image={Amber}
+                    />
+                             
                 </div>
             </div>
         </section>

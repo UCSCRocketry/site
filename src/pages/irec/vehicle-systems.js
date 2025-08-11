@@ -1,8 +1,11 @@
 import '../projects.css';
 import '../../libraries/bentogrids.css';
-import splashImage from "../../media/vehicle-systems/TeamFoto.jpg" /*loading.jpg*/
-import vehicleImage2 from "../../media/vehicle-systems/rocketlaunchfeb.jpg";
+import splashImage from "../../media/vehicle-systems/loading.jpg"
+import vehicleImage2 from "../../media/vehicle-systems/rocketlaunchfeb.jpg"
 import wireframe from "../../media/vehicle-systems/LeWireframe.png"
+import vehicleImage3IREC from "../../media/vehicle-systems/TeamFoto.jpg"
+import full from "../../media/vehicle-systems/DSC_6357.jpg"
+import vehicleone from "../../media/vehicle-systems/DSC_6351.jpg"
 import Skill from "../../components/skill"
 import SideNavigation from "../../components/sideNavigation";
 
@@ -59,12 +62,20 @@ function VehicleSystems() {
                     </section>
                 </section>
                 <div className="bentoContainer">
+                    
                     <div className="column">
-                        <img src={splashImage} className="bentoImage"/>
+                        <img src={full} className="bentoImage"/>
                     </div>
                     <div className="column">
                         <img src={vehicleImage2} className="bentoImage"/>
                     </div>
+                    <div className="column">
+                        <img src={vehicleone} className="bentoImage"/>
+                    </div>
+                    <div className="column">
+                        <img src={vehicleImage3IREC} className="bentoImage"/>
+                    </div>
+                    
                 </div>
             </section>
         </section>
