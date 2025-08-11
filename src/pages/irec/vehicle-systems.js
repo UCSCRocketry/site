@@ -1,6 +1,6 @@
 import '../projects.css';
 import '../../libraries/bentogrids.css';
-import splashImage from "../../media/vehicle-systems/loading.jpg"
+import splashImage from "../../media/vehicle-systems/TeamFoto.jpg" /*loading.jpg*/
 import vehicleImage2 from "../../media/vehicle-systems/rocketlaunchfeb.jpg";
 import wireframe from "../../media/vehicle-systems/LeWireframe.png"
 import Skill from "../../components/skill"
