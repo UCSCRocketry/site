@@ -111,7 +111,7 @@ function CurrentLeadership() {
                 <h5 className="H5Gray">Competition Leads</h5>
                 <div className="leadsContainer">
                     {/* Vehicle Systems (Teodor) removed since Teodor is now President */}
-                    { <LeadsCard big={false} name="Dayton Ngyuen" title="Vehicle Systems" year="2nd" major="Robotics Engineering" image={Dayton}/> }
+                    { <LeadsCard big={false} name="Dayton Nguyen" title="Vehicle Systems" year="2nd" major="Robotics Engineering" image={Dayton}/> }
 
                     {/* Recovery (Amber) moved to Director of Internal Affairs above */}
                     {<LeadsCard big={false} name="Javier Valencia" title="Recovery" year="2nd" major="Applied Mathematics" image={Javier}/> }
