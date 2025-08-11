@@ -7,7 +7,7 @@ import React from "react";
 import Qingyuan from "../../media/leads/Screenshot 2024-11-18 at 11.35.06 PM.png"
 import Khanh from "../../media/leads/IMG_0713.png"
 import Laura from "../../media/leads/IMG_1754.jpg"
-import Marcus from "../../media/leads/IMG_5571.jpg"
+import Marcus from "../../media/leads/IMG_9093.jpg"
 
 function Alumni() {
     return (

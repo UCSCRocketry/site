@@ -22,6 +22,8 @@ import Merrick from "../../media/leads/IMG_7105.jpg"
 import Alexander from "../../media/leads/Alexander.png"
 import Teo from "../../media/leads/IMG_2201.JPG"
 import Sage from "../../media/leads/sage.jpg"
+import Kayden from "../../media/leads/IMG_2167.jpg"
+
 
 function CurrentLeadership() {
     return (
@@ -126,7 +128,7 @@ function CurrentLeadership() {
                     <LeadsCard big={false} name="Sage Silberman" title="Ground Control Systems" year="3rd"
                                major="Computer Science" image={Sage}/>
                     <LeadsCard big={false} name="Kayden Ozdemier" title="Thrust Vector Control" year="2nd"
-                               major="Astrophysics" image={Amber}/>
+                               major="Astrophysics" image={Kayden}/>
                 </div>
             </div>
         </section>
