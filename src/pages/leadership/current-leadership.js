@@ -13,10 +13,7 @@ import Laura from "../../media/leads/IMG_1754.jpg"
 import Khanh from "../../media/leads/IMG_0713.png"*/
 
 import Heli from "../../media/leads/Screenshot 2024-10-12 at 3.11.00 PM.jpg"
-
 import Amber from "../../media/leads/IMG_8848.jpg"
-
-
 import Julian from "../../media/leads/img_9983.jpg"
 import Merrick from "../../media/leads/IMG_7105.jpg"
 import Alexander from "../../media/leads/Alexander.png"
@@ -26,6 +23,8 @@ import Kayden from "../../media/leads/IMG_2167.jpg"
 import Dayton from "../../media/leads/IMG_1950.jpg"
 import Javier from "../../media/leads/IMG_3300_Original.jpg"
 import Niv from "../../media/leads/IMG_7479.jpg"
+import Max from "../../media/leads/IMG_5425.jpg"
+import Dane from "../../media/leads/IMG_7737.jpg"
 
 function CurrentLeadership() {
     return (
@@ -136,15 +135,15 @@ function CurrentLeadership() {
                             year="2nd" major="Robotics Engineering" image={Dayton}/> 
                     <LeadsCard big={false} name="Julian Barberra" title="ADAS" year="3rd"
                                major="Electrical Engineering" image={Julian}/>
-                    <LeadsCard big={false} name="Maximillan Miller" title="ADAS" year="3rd"
-                               major="filler" image={Julian}/>  
+                    <LeadsCard big={false} name="Maximilian Miler" title="ADAS" year="3rd"
+                               major="Computer Engineering" image={Max}/>  
                     <LeadsCard
                         big={false} name="Amber Borjigin" title="Vison Project" year="3rd"
                         major="Computer Engineering" image={Amber}
                     />
                     <LeadsCard
-                        big={false} name="Dane" title="Vison Project" year="3rd"
-                        major="filler" image={Amber}
+                        big={false} name="Dane Pearson" title="Vison Project" year="3rd"
+                        major="Computer Science" image={Dane}
                     />
                              
                 </div>
