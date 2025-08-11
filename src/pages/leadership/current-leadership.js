@@ -132,7 +132,7 @@ function CurrentLeadership() {
                 <div className="leadsContainer">
                     <LeadsCard big={false} name="Kayden Ozdemier" title="Thrust Vector Control" year="2nd"
                                major="Astrophysics" image={Kayden}/>
-                    <LeadsCard big={false} name="Dayton Ngyuen" title="ADAS" 
+                    <LeadsCard big={false} name="Dayton Nugyen" title="ADAS" 
                             year="2nd" major="Robotics Engineering" image={Dayton}/> 
                     <LeadsCard big={false} name="Julian Barberra" title="ADAS" year="3rd"
                                major="Electrical Engineering" image={Julian}/>
