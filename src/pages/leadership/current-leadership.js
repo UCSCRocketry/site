@@ -23,7 +23,9 @@ import Alexander from "../../media/leads/Alexander.png"
 import Teo from "../../media/leads/IMG_2201.JPG"
 import Sage from "../../media/leads/sage.jpg"
 import Kayden from "../../media/leads/IMG_2167.jpg"
-
+import Dayton from "../../media/leads/IMG_1950.jpg"
+import Javier from "../../media/leads/IMG_3300_Original.jpg"
+import Niv from "../../media/leads/IMG_7479.jpg"
 
 function CurrentLeadership() {
     return (
@@ -53,7 +55,7 @@ function CurrentLeadership() {
                     big={true}
                     name="Alexander Daltchev"
                     title="Vice President"
-                    year="2nd"
+                    year="3rd"
                     major="Business Management Economics"
                     image={Alexander}
                     about="Alexander supports org operations, logistics, and execution across teams."
@@ -67,7 +69,7 @@ function CurrentLeadership() {
                         big={false}
                         name="Heli Kadakia"
                         title="Lab Safety Officer"
-                        year="2nd"
+                        year="3rd"
                         major="Computer Science and Computer Engineering"
                         image={Heli}
                     />
@@ -77,7 +79,7 @@ function CurrentLeadership() {
                         big={false}
                         name="Amber Borjigin"
                         title="Director of Internal Affairs"
-                        year="2nd"
+                        year="3rd"
                         major="Computer Engineering"
                         image={Amber}
                     />
@@ -87,7 +89,7 @@ function CurrentLeadership() {
                         big={false}
                         name="Alexander Daltchev"
                         title="Launch Operations"
-                        year="2nd"
+                        year="3rd"
                         major="Business Management Economics"
                         image={Alexander}
                     />
@@ -109,26 +111,31 @@ function CurrentLeadership() {
                 <h5 className="H5Gray">Competition Leads</h5>
                 <div className="leadsContainer">
                     {/* Vehicle Systems (Teodor) removed since Teodor is now President */}
-                    {/* <LeadsCard big={false} name="Teodor Langan" title="Vehicle Systems" year="2nd" major="Computer Engineering" image={Teo}/> */}
+                    { <LeadsCard big={false} name="Dayton Ngyuen" title="Vehicle Systems" year="2nd" major="Robotics Engineering" image={Dayton}/> }
 
                     {/* Recovery (Amber) moved to Director of Internal Affairs above */}
-                    {/* <LeadsCard big={false} name="Amber Borjigin" title="Recovery" year="2nd" major="Computer Engineering" image={Amber}/> */}
+                    {<LeadsCard big={false} name="Javier Valencia" title="Recovery" year="2nd" major="Applied Mathematics" image={Javier}/> }
 
-                    <LeadsCard big={false} name="Niv" title="Payload" year="3rd"
-                               major="Robotics" />
-                </div>
+                    <LeadsCard big={false} name="Nivedita Kamath" title="Payload" year="3rd"
+                               major="Robotics" image={Niv}/>
 
-                <hr/>
-                <h5 className="H5Gray">Project Leads</h5>
-                <div className="leadsContainer">
                     <LeadsCard big={false} name="Julian Barberra" title="Avionics Electrical" year="3rd"
                                major="Electrical Engineering" image={Julian}/>
                     <LeadsCard big={false} name="Merrick Fort" title="Avionics Software" year="4th"
                                major="Computer Science" image={Merrick}/>
                     <LeadsCard big={false} name="Sage Silberman" title="Ground Control Systems" year="3rd"
                                major="Computer Science" image={Sage}/>
+                </div>
+
+                <hr/>
+                <h5 className="H5Gray">Project Leads</h5>
+                <div className="leadsContainer">
                     <LeadsCard big={false} name="Kayden Ozdemier" title="Thrust Vector Control" year="2nd"
                                major="Astrophysics" image={Kayden}/>
+                    <LeadsCard big={false} name="Dayton Ngyuen" title="ADAS" 
+                            year="2nd" major="Robotics Engineering" image={Dayton}/> 
+                    <LeadsCard big={false} name="Julian Barberra" title="ADAS" year="3rd"
+                               major="Electrical Engineering" image={Julian}/>
                 </div>
             </div>
         </section>
