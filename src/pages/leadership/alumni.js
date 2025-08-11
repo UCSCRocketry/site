@@ -20,16 +20,16 @@ function Alumni() {
             </section>
             <div className="contentContainer">
                     <h4>The UC Santa Cruz Rocket Team deeply values the dedication and achievements of our past members and leaders. Their contributions have laid the foundation for our continued success, inspiring new generations of engineers and innovators. Each year, we proudly pass the torch, carrying forward their legacy and pushing the boundaries of rocketry. With every launch, we reach new heights, driven by the knowledge, passion, and perseverance of those who came before us.</h4>                
-                    {/* <div className="leadsContainer">
+                    { <div className="leadsContainer">
                     <LeadsCard big={false} name="Marcus Chan" title="Lab Saftey Officer" year="2025"
                                major="Computer Engineering" image={Marcus}/>
                     <LeadsCard big={false} name="Laura Ortiz" title="Payload" year="2025"
                                major="Robotics Engineering" image={Laura}/>
-                    <LeadsCard big={false} name="Marcus Chan" title="Lab Saftey Officer" year="2025"
+                    <LeadsCard big={false} name="Qingyuan" title="Lab Saftey Officer" year="2025"
                                major="Computer Engineering" image={Marcus}/>
-                    <LeadsCard big={false} name="Laura Ortiz" title="Payload" year="2025"
+                    <LeadsCard big={false} name="Khan" title="Payload" year="2025"
                                major="Robotics Engineering" image={Laura}/>
-                </div> */}
+                </div> }
             </div>
         </section>
     )
