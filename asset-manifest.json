@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c200a8b8.css",
-    "main.js": "/static/js/main.f7329900.js",
+    "main.js": "/static/js/main.d43796f1.js",
     "static/js/453.7fbbb176.chunk.js": "/static/js/453.7fbbb176.chunk.js",
     "static/media/IMG_0713.png": "/static/media/IMG_0713.9f870a609a2cb044d41f.png",
     "static/media/IMG_1667.png": "/static/media/IMG_1667.12d712596697fc01fba3.png",
@@ -40,6 +40,7 @@
     "static/media/bluebackground.png": "/static/media/bluebackground.adc7d36dace13adfaebb.png",
     "static/media/sage.jpg": "/static/media/sage.02ef3c7c9db7c2244433.jpg",
     "static/media/F37Moon-ExtraBold.otf": "/static/media/F37Moon-ExtraBold.69c5ec911d43b7ad159d.otf",
+    "static/media/IMG_4898.jpg": "/static/media/IMG_4898.0c1755835ac74fa3b424.jpg",
     "static/media/RocketTeamLogoWhite.png": "/static/media/RocketTeamLogoWhite.9de6e80ce551f9048576.png",
     "static/media/UCSC_BaskinEng_Logo_Color_RGB.svg": "/static/media/UCSC_BaskinEng_Logo_Color_RGB.620a339131d7a3d26491ed379e40d7ba.svg",
     "static/media/UC_Santa_Cruz_logo.svg": "/static/media/UC_Santa_Cruz_logo.c445294ae0a1b6c2ab96b5956336c22d.svg",
@@ -50,11 +51,11 @@
     "static/media/outreach.svg": "/static/media/outreach.790239d0535c47428a5b21fef78be576.svg",
     "static/media/menuicon.svg": "/static/media/menuicon.444d0e11927b4093fcb9984b421bfade.svg",
     "main.c200a8b8.css.map": "/static/css/main.c200a8b8.css.map",
-    "main.f7329900.js.map": "/static/js/main.f7329900.js.map",
+    "main.d43796f1.js.map": "/static/js/main.d43796f1.js.map",
     "453.7fbbb176.chunk.js.map": "/static/js/453.7fbbb176.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c200a8b8.css",
-    "static/js/main.f7329900.js"
+    "static/js/main.d43796f1.js"
   ]
 }
