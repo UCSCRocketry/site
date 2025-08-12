@@ -25,6 +25,7 @@ import Javier from "../../media/leads/IMG_3300_Original.jpg"
 import Niv from "../../media/leads/IMG_7479.jpg"
 import Max from "../../media/leads/IMG_5425.jpg"
 import Dane from "../../media/leads/IMG_7737.jpg"
+import Hennessy from "../../media/leads/IMG_4898.jpg"
 
 function CurrentLeadership() {
     return (
@@ -97,11 +98,11 @@ function CurrentLeadership() {
                     {
                     <LeadsCard
                         big={false}
-                        name="filler"
+                        name="Hennessy Soto-Silvas"
                         title="Outreach"
-                        year="2nd"
-                        major=""
-                        image={Heli}
+                        year="3rd"
+                        major="Robotics"
+                        image={Hennessy}
                     />
                     }
                 </div>
